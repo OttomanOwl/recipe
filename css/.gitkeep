@@ -1,0 +1,26 @@
+ <style>
+    html {
+      min-height: 100%;
+    }
+    body{
+      background: linear-gradient(#FFFFFF, #E1E1E1);
+    }
+      h1 {
+      padding:0px 525px 0px 525px;
+    }
+      h2 {
+      padding:0px 300px 0px 300px;
+    }
+      ol {
+      padding:0px 300px 0px 300px;
+    }
+      ul {
+      padding:0px 300px 0px 300px;
+    }
+    p {
+      padding:0px 300px 0px 300px;
+    }
+      img {
+      padding:0px 500px 0px 450px;
+    }
+   

@@ -1,0 +1,19 @@
+html {
+      min-height: 100%;
+} 
+.title {
+  margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.image {
+  margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.col1,.col2 {
+	margin: auto;
+    width: 40%;
+    padding: 10px;
+}
